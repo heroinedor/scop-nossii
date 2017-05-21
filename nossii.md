@@ -43,19 +43,27 @@ Chaque membre doit par exemple avoir une liberté d'action totale vis à vis des
 Autre exemple, la prise de congés, jours d'absence ou de formation, participation à des conférences (etc.) doit être décidée par la personne concernée, en pleine conscience des impacts potentiels sur son travail.
 
 ## Quelques références
-Le mouvement des NoSSII a été initié entre autres par :
+Vers 2013 le mouvement des NoSSII a été initié entre autres par :
 
-* [Scopyleft](http://scopyleft.fr/): une SCOP de développeurs
-* [Ninja Squad](http://ninja-squad.com/) : une team de ninja du code
-* [Lateral Thoughts](http://www.lateral-thoughts.com/) : une SSII sans hiérarchie
+* [Scopyleft](http://scopyleft.fr/): une SCOP de développeurs, créée en 2012 – SCOP
+* [Ninja Squad](http://ninja-squad.com/) : une team de ninja du code, créée en 2012 – SCOP
+* [Lateral Thoughts](http://www.lateral-thoughts.com/) : une ESN sans hiérarchie, créée en 2011 – SAS
 
-ainsi que d'autres société : 
+ainsi que d'autres sociétés sources d'inspiration : 
 
-* [Buffer](https://buffer.com/transparency)
-* [Codeurs en liberté](https://www.codeursenliberté.fr/)
-* [Code troopers](https://code-troopers.com/)
-* [ut7](http://ut7.fr/)
-* [Arpinum](http://www.arpinum.fr/)
+* [Easter-Egg](http://www.easter-eggs.com/) ENL créée en 1997 – SARL
+* [entr'ouvert](http://www.entrouvert.com/) ENL créée en 2002 – SCOP
+* [BearTech](http://bearstech.com/) ENL créée en 2004 – SCOP
+* [ut7](http://ut7.fr/) créée en 2008 – SCOP
+* [Devcoop](http://www.devcoop.fr/) ESN créé en 2009 – SCOP
+* [iMaugis](http://www.imaugis.fr/) ENL créé en 2010 – SCOP
+* [Arpinum](http://www.arpinum.fr/) créée en 2010
+* [Human coders](http://humancoders.com/) centre de formation (mais pas que) créée en 2012 – SAS
+* [Code troopers](https://code-troopers.com/) créée en 2013
+
+Et quelques sociétés proches du mouvement depuis sa création : 
+* [Codeurs en liberté](https://www.codeursenliberté.fr/) coopérative d’indépendants créée en 2016 – SCOP
+
 
 Voici une présentation qui permet de saisir le positionnement des NoSSII par rapport aux SSII et les avantages qui en découlent : 
 http://chcap.github.io/human-talks-nossii/#/
