@@ -1,4 +1,4 @@
-# Raison d’être :
+# Raison d’être du projet :
  
 ## donner les moyens à chaque collaborateur de développer son projet : 
 * en accumulant du financement via la facturation des missions
@@ -7,13 +7,14 @@
 * en rendant chacun autonome, mais vraiment
 
 ## ramener de la démocratie dans l’entreprise :
-mode de fonctionnement sans hiérarchie (entreprise libérée)
-statut de type coopérative
+Cette démocratie ne peut s'obtenir que par 2 moyens conjoints: 
+* un mode de fonctionnement sans hiérarchie, de type [entreprise libérée](https://fr.wikipedia.org/wiki/Entreprise_lib%C3%A9r%C3%A9e).
+* un statut de type coopérative ([SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) par exemple
 
 ## créer une communauté de travail :
 en mutualisant les ressources matérielles (locaux, accès internet, imprimante, etc.)
 
 ## Donner une utilité sociétale au travail :
-pas de travail avec  le militaire (Thales, Airbus, etc.) et les gros pollueurs (...) sauf en cas d’extrême nécessité
-quand possible, privilégier les clients les plus éthiques
-en pratiquant des prix plus modérés pour les entreprises du domaine de l’ESS ?
+* en évitant autant que possible de travailler avec  le militaire (Thales, Airbus, etc.) et les gros pollueurs (Areva, Total, etc.) sauf en cas d’extrême nécessité.
+* en privilégiant autant que possible les clients les plus éthiques
+* Voire en pratiquant des prix plus modérés pour les entreprises du domaine de l’ESS
