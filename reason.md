@@ -1,12 +1,12 @@
 # Raison d’être du projet :
  
 ## Donner les moyens à chaque collaborateur de développer son projet : 
-* en accumulant du financement via la facturation des missions
-* en dégageant du temps disponible (10 à 20 % du temps d’activité sur l’année)
-* en organisant des rencontres entre les collaborateurs (time off) pour présenter leurs projets et convaincre les autres de les suivre
-* en rendant chacun autonome, mais vraiment
+* en le finançant via la facturation de prestations
+* en dégageant du temps disponible (10 à 20 % du temps d’activité sur l’année, voire plus) à lui consacrer
+* en organisant des rencontres entre les collaborateurs (time off) pour que chacun puisse se former et/ou présenter son projet et convaincre les autres de le suivre
+* en rendant chacun réellement autonome
 
-## ramener de la démocratie dans l’entreprise :
+## Ramener de la démocratie dans l’entreprise :
 Cette démocratie ne peut s'obtenir que par 2 moyens conjoints: 
 * un mode de fonctionnement sans hiérarchie, de type [entreprise libérée](https://fr.wikipedia.org/wiki/Entreprise_lib%C3%A9r%C3%A9e).
 * un statut de type coopérative ([SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) par exemple
