@@ -24,7 +24,9 @@ Un point de départ de répartition du temps de travail pourrait être
 - 4/5e pour la prestation 
 - 1/5e pour la R&D et la gestion d'entreprise
 
-Cette répartition ne sera pas forcément liée à une personne : il pourra y avoir par exemple 4 personnes travaillant à plein temps sur de la prestation pendant qu'une personne travaille à plein temps sur la R&D.  
+Cette répartition pourra se faire  : 
+- soit pour chaque personne : par exemple 4 jours en prestation et 1 jour en R&D, ou 4 semaines en prestation et 1 semaine en R&D
+- soit globalisé au niveau d'une équipe : il pourra y avoir par exemple 4 personnes travaillant à plein temps sur de la prestation pendant qu'une personne travaille à plein temps sur la R&D.  
 Elle pourra évoluer en fonction des besoins et contraintes du moment.  
 Le financement du lab se fait par l'argent que rapporte la prestation.
 
@@ -40,8 +42,8 @@ Beaucoup d'options sont possibles  :
 
 ## Forfait ? Régie ?
 L'important est de parvenir à créer une dynamique de groupe.
-Donc oui, dans les premiers temps, ce ne sera que de la régie chez le client.  
-Mais dès que possible, il faudra pouvoir travailler dans des locaux permettant à l'équipe de se retrouver et lancer une dynamique de groupe.Il pourra y avoir alors un travail sous forme de régie externalisée ou sous forme de forfait.
+Dans un premier temps en attendant de trouver un forfait ou assimilié ce ne sera que de la régie chez le client.  
+Mais dès que possible, il faudra pouvoir travailler dans des locaux permettant à l'équipe de se retrouver et lancer une dynamique de groupe. Il pourra y avoir alors un travail sous forme de régie externalisée ou sous forme de forfait.
 
 ## Commercial ou pas ?
 Dans un premier temps, pas de commercial. Chaque personne devra être autonome pour se placer chez un client ou pour décrocher un projet en externalisation.  
