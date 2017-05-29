@@ -27,6 +27,7 @@ Un point de départ de répartition du temps de travail pourrait être
 Cette répartition pourra se faire  : 
 - soit pour chaque personne : par exemple 4 jours en prestation et 1 jour en R&D, ou 4 semaines en prestation et 1 semaine en R&D
 - soit globalisé au niveau d'une équipe : il pourra y avoir par exemple 4 personnes travaillant à plein temps sur de la prestation pendant qu'une personne travaille à plein temps sur la R&D.  
+
 Elle pourra évoluer en fonction des besoins et contraintes du moment.  
 Le financement du lab se fait par l'argent que rapporte la prestation.
 
