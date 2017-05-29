@@ -9,7 +9,9 @@
 ## Ramener de la démocratie dans l’entreprise :
 Cette démocratie ne peut s'obtenir que par 2 moyens conjoints: 
 * un mode de fonctionnement sans hiérarchie, de type [entreprise libérée](https://fr.wikipedia.org/wiki/Entreprise_lib%C3%A9r%C3%A9e).
-* un statut de type coopérative ([SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) par exemple)
+* un statut de type coopérative ([SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) par exemple)  
+
+Et en diffusant ce mode de fonctionnement dans le monde de la prestation informatique
 
 ## Créer une communauté de travail :
 en mutualisant les ressources matérielles (locaux, accès internet, imprimante, etc.)
