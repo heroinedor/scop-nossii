@@ -36,7 +36,18 @@ Beaucoup d'options sont possibles  :
 * salaire avec prime sur participation aux tâches communes ?
 * salaire basé sur le tarif de la mission?
 * même salaire pour tout le monde ?
-* autre ?
+* autre ? 
+
+* Un exemple mixant ces solutions pourrait être :
+    * un fixe identique pour tout le monde (le plus haut possible sans mettre en danger la boite)
+    * Prime tous les 6 mois en fonction du CA produit par le salarié :
+        - Si il produit moins que son salaire, la boîte sert d'assurance (principe de solidarité)
+        - Si il produit exactement ce que tu coutes, pas de prime.
+        - Si il produit plus que ce qu'il coûte, la différence lui est versée en prime (minorée d'une réserve pour la société) ou en jours de congés. 
+* Un autre exemple pourrait être:
+    * le salarié choisit son salaire et s'engage par contrat à générer le CA nécessaire (sur une période de 3 mois glissante par exemple) pour honorer son choix
+    * s'il n'y arrive pas, un avenant est signé dans lequel il baisse sa rémunération et s'engage sur un nouveau CA plus faible
+    * s'il y arrive, le salaire reste inchangé et le surplus de CA lui est versé en fin d'année, minoré d'une réserve pour la société, ou en jours de congés
 
 ## Forfait ? Régie ?
 L'important est de parvenir à créer une dynamique de groupe.
@@ -57,8 +68,21 @@ Une fois la société suffisamment solide, elle pourra prendre le risque d'inté
 
 La société pourra aussi avoir des relations privilégiées de partenariat avec des freelances intéressés par le projet.
 
+## Taille de la société
+Etant donné qu'une des [Raisons d'être](reason.md) de cette société est de ramener de la démocratie dans le fonctionnement de l'entreprise et dans le monde des SSII, on ne peut pas limiter sa taille.
+Sans vouloir chercher la croissance à tout prix, on ne peut pas limiter la taille de la société.
+Si à l'avenir, des divergences de vision apparaissent entre différents groupes de membres, il faut aussi se laisser la possibilité de scinder la société en plusieurs entités,
+quitte à se retrouver avec une "galaxie" de scop-noSSII avec des fonctionnements plus ou moins différents.
+Cela rejoint la notion de société "gazeuse" (référence ?)
+
 ## Inspirations
 Les [NoSSII](nossii.md) et le réseau des Coopératives d'Activité de d'Emploi (CAE) : 
 
 * [Coopérer](http://www.cooperer.coop/)
 * [Maison de l'Initiative](http://www.maison-initiative.org/) : celle de Toulouse
+
+L'étude menée par Frédéric Lalloux sur les nouvelles formes d'organisation des sociétés :
+ 
+* [le livre](https://www.diateino.com/fr/106-reinventing-organizations.html) 
+* [une de ses conférences](https://www.youtube.com/watch?v=NZKqPoQiaDE) (en français)
+* et le [site web](http://www.reinventingorganizations.com) 
