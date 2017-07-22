@@ -45,6 +45,10 @@ Il en résulte un très forte égalité entre les membres de la NoSSII.
 Chaque membre doit par exemple avoir une liberté d'action totale vis à vis des missions à effectuer : les chercher, les refuser ou les accepter en assurer soit même l'exécution
 Autre exemple: la prise de congés, jours d'absence ou de formation, participation à des conférences (etc.) doit être décidée par la personne concernée, en pleine conscience des impacts potentiels sur son travail.
 
+## Transparence
+Afin que chaque membre puisse prendre une décision éclairée, il doit avoir à disposition toute les informations nécessaires.  
+Dans une NoSSII, il doit y avoir une transparence totale des informations, notamment financières afin que tout le monde soit à même de prendre une décision.
+
 ## Quelques références
 Vers 2013 le mouvement des NoSSII a été initié entre autres par :
 
