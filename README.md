@@ -1,5 +1,5 @@
 # scop-nossii
-Projet de société coopérative libérée de  prestation en informatique
+Projet de société coopérative libérée de prestation en informatique
 
 ## Introduction
 80% NoSSII,  20 % incubateur, 100% coopérative libérée
@@ -39,6 +39,7 @@ Beaucoup d'options sont possibles  :
 * un salaire avec prime sur participation aux tâches communes comme chez Lateral Thoughts  ?
 * salaire basé sur le tarif de la mission ?
 * même salaire pour tout le monde ?
+* rémunération poker : https://www.youtube.com/watch?v=TZuh-yDfZlg
 * autre ? 
 
 * Un exemple mixant ces solutions pourrait être :
@@ -52,9 +53,11 @@ Beaucoup d'options sont possibles  :
     * s'il n'y arrive pas, un avenant est signé dans lequel il baisse sa rémunération et s'engage sur un nouveau CA plus faible
     * s'il y arrive, le salaire reste inchangé et le surplus de CA lui est versé en fin d'année, minoré d'une réserve pour la société, ou en jours de congés
 
+
+
 ## Forfait ? Régie ?
 L'important est de parvenir à créer une dynamique de groupe.
-Dans un premier temps en attendant de trouver un forfait ou assimilié ce ne sera que de la régie chez le client.  
+Dans un premier temps, en attendant de trouver un forfait ou assimilié ce ne sera que de la régie chez le client.  
 Mais dès que possible, il faudra pouvoir travailler dans des locaux permettant à l'équipe de se retrouver et lancer une dynamique de groupe. Il pourra y avoir alors un travail sous forme de régie externalisée ou sous forme de forfait.
 
 ## Commercial ou pas ?
