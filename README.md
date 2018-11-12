@@ -44,10 +44,10 @@ Beaucoup d'options sont possibles  :
 
 * Un exemple mixant ces solutions pourrait être :
     * un fixe identique pour tout le monde (le plus haut possible sans mettre en danger la boite)
-    * Prime tous les 6 mois en fonction du CA produit par le salarié :
-        - Si il produit moins que son salaire, la boîte sert d'assurance (principe de solidarité)
-        - Si il produit exactement ce que tu coutes, pas de prime.
-        - Si il produit plus que ce qu'il coûte, la différence lui est versée en prime (minorée d'une réserve pour la société) ou en jours de congés. 
+    * Prime tous les 6 mois en fonction du chiffre d'affaire généré par le salarié :
+        - S'il génère moins que ce qu'il coûte, la boîte sert d'assurance (principe de solidarité)
+        - S'il produit exactement ce qu'il coûte, pas de prime.
+        - S'il produit plus que ce qu'il coûte, la différence lui est versée en prime (minorée d'une réserve pour la société) ou en jours de congés. 
 * Un autre exemple pourrait être:
     * le salarié choisit son salaire et s'engage par contrat à générer le CA nécessaire (sur une période de 3 mois glissante par exemple) pour honorer son choix
     * s'il n'y arrive pas, un avenant est signé dans lequel il baisse sa rémunération et s'engage sur un nouveau CA plus faible
